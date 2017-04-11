@@ -1,5 +1,5 @@
-# About
-A list of roadmaps to help you improve as a developer and also understand where to begin in a specific role. (WIB)
+# Awesome Roadmaps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of awesome software development roadmaps
 
 ### Roadmaps
 * [Web developer roadmap 2017](https://github.com/kamranahmedse/developer-roadmap)
