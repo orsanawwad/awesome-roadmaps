@@ -2,14 +2,14 @@
 > A curated list of awesome software development roadmaps
 
 ### Roadmaps
-* [Web developer roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
+* [Web developer roadmap 2019 (New Update)](https://github.com/kamranahmedse/developer-roadmap)
 * [UI/UX designer roadmap 2017](https://github.com/togiberlin/ui-ux-designer-roadmap)
-* [Game developer roadmap 2017](https://github.com/utilForever/game-developer-roadmap)
+* [Game developer roadmap 2018](https://github.com/utilForever/game-developer-roadmap)
 * [Deep learning papers reading roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [iOS developer in 2018](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 * [Mobile developer in 2017](https://github.com/godrm/mobile-developer-roadmap)
-* [React developer in 2018](https://github.com/adam-golab/react-developer-roadmap)
-* [Vue developer in 2018](https://github.com/marekbrainhub/vue-developer-roadmap)
+* [React developer in 2019 (New Update)](https://github.com/adam-golab/react-developer-roadmap)
+* [Vue developer in 2019 (New Update)](https://github.com/marekbrainhub/vue-developer-roadmap)
 * [Vue.js developer in 2018](https://github.com/flaviocopes/vue-developer-roadmap)
 * [.net back-end Roadmap](https://github.com/saifaustcse/.net-developer-roadmap)
 * [Data science roadmap](https://github.com/MrMimic/data-scientist-roadmap)
