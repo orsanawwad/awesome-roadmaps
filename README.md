@@ -11,6 +11,7 @@
 * [React developer in 2019 (New Update)](https://github.com/adam-golab/react-developer-roadmap)
 * [Vue developer in 2019 (New Update)](https://github.com/marekbrainhub/vue-developer-roadmap)
 * [Vue.js developer in 2018](https://github.com/flaviocopes/vue-developer-roadmap)
+* [Node.js Developer Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)
 * [.net back-end Roadmap](https://github.com/saifaustcse/.net-developer-roadmap)
 * [ASP.NET Core Developer roadmap in 2019](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 * [Data science roadmap](https://github.com/MrMimic/data-scientist-roadmap)
