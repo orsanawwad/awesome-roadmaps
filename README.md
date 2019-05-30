@@ -21,3 +21,4 @@
 * [Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap)
 * [Front-end HTML5/CSS3/Javascript related technologies to learn in 2017](https://github.com/ManzDev/roadmap-web-developer-2017)
 * [Software Quality Assurance Roadmap](https://github.com/anas-qa/Quality-Assurance-Road-Map)
+* [Android Developer Roadmap in 2019](https://github.com/anacoimbrag/android-developer-roadmap)
