@@ -8,6 +8,7 @@
 * [Data science Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [Front-end HTML5/CSS3/Javascript related technologies to learn in 2017](https://github.com/ManzDev/roadmap-web-developer-2017)
+* [Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)
 * [Game developer Roadmap 2018](https://github.com/utilForever/game-developer-roadmap)
 * [Go developer Roadmap 2019](https://github.com/Alikhll/golang-developer-roadmap)
 * [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap)
