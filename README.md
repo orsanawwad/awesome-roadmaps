@@ -2,6 +2,7 @@
 > A curated list of awesome software development roadmaps
 
 ### Roadmaps
+* [Web developer roadmap in 2020](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
 * [Go developer roadmap 2019](https://github.com/Alikhll/golang-developer-roadmap)
 * [Web developer roadmap 2019](https://github.com/kamranahmedse/developer-roadmap)
 * [UI/UX designer roadmap 2017](https://github.com/togiberlin/ui-ux-designer-roadmap)
