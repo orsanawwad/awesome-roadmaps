@@ -2,10 +2,11 @@
 > A curated list of awesome software development roadmaps
 
 ### Roadmaps
-* [Go developer roadmap 2019](https://github.com/Alikhll/golang-developer-roadmap)
-* [Web developer roadmap 2019](https://github.com/kamranahmedse/developer-roadmap)
-* [UI/UX designer roadmap 2017](https://github.com/togiberlin/ui-ux-designer-roadmap)
-* [Game developer roadmap 2018](https://github.com/utilForever/game-developer-roadmap)
+* [Data Engineer Roadmap 2020](https://github.com/datastacktv/data-engineer-roadmap)
+* [Go developer Roadmap 2019](https://github.com/Alikhll/golang-developer-roadmap)
+* [Web developer Roadmap 2019](https://github.com/kamranahmedse/developer-roadmap)
+* [UI/UX designer Roadmap 2017](https://github.com/togiberlin/ui-ux-designer-roadmap)
+* [Game developer Roadmap 2018](https://github.com/utilForever/game-developer-roadmap)
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [iOS developer in 2018](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 * [Mobile developer in 2017](https://github.com/godrm/mobile-developer-roadmap)
