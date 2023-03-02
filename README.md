@@ -26,3 +26,6 @@
 * [DevOps in 2023](https://github.com/milanm/DevOps-Roadmap)
 * [.NET Backend Developerr in 2022](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap)
 * [developer roadmap in 2020](https://github.com/DasyDong/developer-roadmap)
+* [Software Architect roadmap in 2023](https://github.com/justinamiller/SoftwareArchitect)
+* [data engineer roadmap in 2021](https://github.com/datastacktv/data-engineer-roadmap)
+* [AI Expert Roadmap in 2022](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
