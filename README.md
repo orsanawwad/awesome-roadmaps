@@ -4,7 +4,7 @@
 ### Roadmaps
 * [Go developer roadmap 2020](https://github.com/Alikhll/golang-developer-roadmap)
 * [Web developer roadmap 2023](https://github.com/kamranahmedse/developer-roadmap)
-* [Game developer roadmap 20202](https://github.com/utilForever/game-developer-roadmap)
+* [Game developer roadmap 2022](https://github.com/utilForever/game-developer-roadmap)
 * [iOS developer in 2020](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 * [Mobile developer in 2019](https://github.com/godrm/mobile-developer-roadmap)
 * [React developer in 2019](https://github.com/adam-golab/react-developer-roadmap)
